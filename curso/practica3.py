@@ -7,6 +7,7 @@ print("Bienvenido Humano :)")
 
 try: edad =int(input("Ingresa tu edad por favor: "))
 except ValueError:print("Al parecer no ingreso un numero")
+    
 
     
 if edad < 18 :
