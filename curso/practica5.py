@@ -33,4 +33,4 @@ if estimacion == numero:
  
 if estimacion != numero:
     numero = str(numero)
-    print("Lo siento. El número era " + numero)
+    print("Lo siento.No lograste adivinar. El número era " + numero)
